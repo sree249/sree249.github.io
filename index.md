@@ -1,18 +1,20 @@
 ## Subhasree Sengupta
 
-Hello! My name is Subhasree Sengupta. I am a 2nd year doctoral student at the school of information studies, Syracuse University and am advised by Dr. Caroline Haythornthwaite.
+Hello! My name is Subhasree Sengupta. I am a 2nd year doctoral student at the school of information studies, Syracuse University and am advised by **Dr. Caroline Haythornthwaite**.
 Prior to joining the Ischool, I completed my Bachelors in Computer Science with minors in Mathematics and Statistics from University of Minnesota, Twin Cities and 
 my Masters in Computer Science from University of Southern California, with a focus on Artificial Intelligence and machine learning.
 My research interests spans the areas of Social networks analysis,virtual communities, collaborative learning forums, 
 computer mediated communication and applications of Machine learning.
 My research focuses on understanding the knowledge created, shared and curated in online learning communities that focus on computing and technical learning. 
 I am interested to explore how the community dynamics and knowledge shared on these platforms depends on the norms, communication modalities offered by the platforms. 
-Another dimension of my research investigates the use of online discussion forums for seeking support and building reseilence in academic settings.  
+Another dimension of my research, investigates the use of online discussion forums for seeking support and building reseilence in academic settings.  
+
+
  
  
 ### Publications
 
-##Peer-reviewed Conferences:
+## Peer-reviewed Conferences:
 - Sengupta, S., Haythornthwaite, C. (2019, January). Learning with comments: An analysis of comments and
 community on Stack Overflow. In Proceedings of the 53rd annual Hawaii international conference on system
 sciences.
@@ -26,7 +28,7 @@ Computer-Supported Cooperative Work and Social Computing.
 Adversary Belief Formation in Stackelberg Security Games with Varying Information. In Proceedings of
 the 5th annual conference on the Advances of cognitive systems.
 
-##Posters:
+## Posters:
 - Sengupta, S. and Haythornwaite, C. (2019). Enhancing the quality of content on Stack Overflow – a
 preliminary analysis of SO comments. Poster presented at the Social Media and Society conference, Toronto,
 ON.
@@ -34,7 +36,7 @@ ON.
 and r/Gradschool. In proceedings of the 22nd ACM Conference on Computer-Supported Cooperative Work
 and Social Computing.
 
-##Workshops:
+## Workshops:
 - Subhasree Sengupta and Radhika Garg. 2019. Impact of Voice-based interactions on learning practices and
 behavior of children. In Joint proceedings of the ACM IUI 2019 Workshops, Los Angeles, USA, March 20,
 2019. ACM, New York, NY, USA, 3 pages.
@@ -42,7 +44,7 @@ behavior of children. In Joint proceedings of the ACM IUI 2019 Workshops, Los An
 Stack Overflow. Accepted to the CSCW 2019 Workshop on Volunteer Work: Mapping the Future
 of Moderation Research.
 
-##Book Chapters:
+## Book Chapters:
 - Subhasree Sengupta, Kexin Yu, Benham Zahari. Know-Stress: Predictive modeling of Stress among
 diabetes patients under varying conditions. In Artificial Intelligence and Social Work, 2018
 
