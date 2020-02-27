@@ -50,7 +50,7 @@ atom_feed:
 # Site Author
 author:
   name             : "Subhasree Sengupta"
-  avatar           : ""
+  avatar           : "me.jpg"
   bio              : "PhD Student, Syracuse University<br>susengup@syr.edu"
   institution      : "Syracuse University"
   logo             : ""
@@ -67,7 +67,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sree249"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
