@@ -1,10 +1,12 @@
 ## About me
 
-Hello! My name is Subhasree Sengupta. I am a 2nd year doctoral student at the school of information studies, Syracuse University and am advised by **Dr. Caroline Haythornthwaite**.
+Hello! My name is Subhasree Sengupta. I am a 2nd year doctoral student at the school of information studies, Syracuse University.
 Prior to joining the Ischool, I completed my Bachelors in Computer Science with minors in Mathematics and Statistics from University of Minnesota, Twin Cities and 
 my Masters in Computer Science from University of Southern California, with a focus on Artificial Intelligence and machine learning.
+
 My research interests spans the areas of Social networks analysis,virtual communities, collaborative learning forums, 
 computer mediated communication and applications of Machine learning.
+
 My research focuses on understanding the knowledge created, shared and curated in online learning communities that focus on computing and technical learning. 
 I am interested to explore how the community dynamics and knowledge shared on these platforms depends on the norms, communication modalities offered by the platforms. 
 Another dimension of my research, investigates the use of online discussion forums for seeking support and building reseilence in academic settings.  
@@ -18,12 +20,15 @@ Another dimension of my research, investigates the use of online discussion foru
 - Sengupta, S., Haythornthwaite, C. (2019, January). Learning with comments: An analysis of comments and
 community on Stack Overflow. In Proceedings of the 53rd annual Hawaii international conference on system
 sciences.
+
 - Johnson, I. L., Sengupta, S., Schöning, J., & Hecht, B. (2016, May). The geography and importance of
 localness in geotagged social media. In Proceedings of the 2016 CHI Conference on Human Factors in
 Computing Systems (pp. 515-526). ACM.
+
 - Garg, R. & Sengupta, S. (2019). ‘When you can do it, why can’t I?’: Racial and socio-economic
 differences in Family technology use and non-use. In proceedings of the 22nd ACM Conference on
 Computer-Supported Cooperative Work and Social Computing.
+
 - Kar, D., Sengupta, S., Kamar, E., Horovitz, E., & Tambe, M. (2017). Believe It or Not: Modeling
 Adversary Belief Formation in Stackelberg Security Games with Varying Information. In Proceedings of
 the 5th annual conference on the Advances of cognitive systems.
